@@ -15,6 +15,6 @@ Use <corpus_file_path> if corpus is in some other directory
 
 3. Use the option -h for example-help on the script:
 
-	python regex.py -h
+	python ngrams.py -h
 
 4. The corpus file, python script and readme file are in the folder
